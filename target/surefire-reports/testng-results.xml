@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="69" started-at="2020-11-03T01:59:46 IST" finished-at="2020-11-03T01:59:46 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="69" started-at="2020-11-03T01:59:46 IST" finished-at="2020-11-03T01:59:46 IST">
+      <class name="rahulshettyacademy.RestAssuredTest">
+        <test-method status="PASS" signature="deleteTwitter()[pri:0, instance:rahulshettyacademy.RestAssuredTest@3a5ed7a6]" name="deleteTwitter" duration-ms="0" started-at="2020-11-03T01:59:46 IST" finished-at="2020-11-03T01:59:46 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteTwitter -->
+        <test-method status="PASS" signature="posJira()[pri:0, instance:rahulshettyacademy.RestAssuredTest@3a5ed7a6]" name="posJira" duration-ms="1" started-at="2020-11-03T01:59:46 IST" finished-at="2020-11-03T01:59:46 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- posJira -->
+      </class> <!-- rahulshettyacademy.RestAssuredTest -->
+      <class name="rahulshettyacademy.AppiumTest">
+        <test-method status="PASS" signature="nativeAppAndroid()[pri:0, instance:rahulshettyacademy.AppiumTest@7791a895]" name="nativeAppAndroid" duration-ms="7" started-at="2020-11-03T01:59:46 IST" finished-at="2020-11-03T01:59:46 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- nativeAppAndroid -->
+        <test-method status="PASS" signature="nativeAppIos()[pri:0, instance:rahulshettyacademy.AppiumTest@7791a895]" name="nativeAppIos" duration-ms="2" started-at="2020-11-03T01:59:46 IST" finished-at="2020-11-03T01:59:46 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- nativeAppIos -->
+      </class> <!-- rahulshettyacademy.AppiumTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
