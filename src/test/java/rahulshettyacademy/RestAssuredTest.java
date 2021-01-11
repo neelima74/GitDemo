@@ -6,6 +6,8 @@ public class RestAssuredTest {
 	@Test
 	public void posJira() {
       System.out.println("PostJIRA");
+      System.out.println("PostJIRA1");
+      System.out.println("PostJIRA2");
 	}
 	
 	@Test
