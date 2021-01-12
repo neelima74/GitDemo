@@ -13,6 +13,9 @@ public class AppiumTest {
 	public void nativeAppIos()
 	{
 		System.out.println("IOS APps");
+		System.out.println("IOS APps");
+		System.out.println("IOS APps");
+		System.out.println("IOS APps");
 		
 	}
 }

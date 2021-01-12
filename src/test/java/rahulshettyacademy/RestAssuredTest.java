@@ -16,4 +16,9 @@ public class RestAssuredTest {
 	{
 		System.out.println("deleteTwitter");
 	}
+	@Test
+	public void deleteTwitte2r()
+	{
+		System.out.println("deleteTwitt2er");
+	}
 }
